@@ -34,26 +34,13 @@ params:
     # Main hero title
     title: Your Fridge. For real.
     # Hero subtitle (optional)
-    subtitle: 
+    subtitle: Reducing food waste, one fridge at a time.
     # Button text
-    buttontext: Get started
+    buttontext: See Demo
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
-    # Footer logos (from static/images/logos/clients/*.svg)
-    # urls are optional
-    clientlogos:
-    - logo: systek
-      url: https://google.com
-    - logo: tribe
-      url: https://stefma.github.io/hugo-fresh/
-    - logo: kromo
-      url: https://github.com/StefMa/hugo-fresh
-    - logo: infinite
-      url: https://hugo-fresh.vercel.app/
-    - logo: gutwork
-      url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Features
