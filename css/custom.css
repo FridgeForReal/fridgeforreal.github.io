@@ -1,0 +1,6 @@
+.navbar.is-fresh .navbar-brand img {
+  max-height: 100px !important;
+  height: 100px;
+  width: auto;
+  object-fit: contain;
+} 
