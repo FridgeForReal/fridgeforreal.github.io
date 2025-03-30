@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>✅ Email Confirmed!</title>
+      <link>http://localhost:1313/emailconfirmed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/emailconfirmed/</guid>
+      <description>&lt;p&gt;Thank you for confirming your email address. Your account is now fully activated!&lt;/p&gt;&#xA;&lt;p&gt;Sincerely, the &lt;a href=&#34;http://localhost:1313/&#34;&gt;FridgeForReal&lt;/a&gt; team.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,13 +27,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/comingsoon/</guid>
       <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h1&gt;&#xA;&lt;p&gt;FridgeForReal is launching in 2026. Stay tuned for updates!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Email Confirmed</title>
-      <link>http://localhost:1313/emailconfirmed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/emailconfirmed/</guid>
-      <description>&lt;h1 id=&#34;-email-confirmed&#34;&gt;✅ Email Confirmed!&lt;/h1&gt;&#xA;&lt;p&gt;Thank you for confirming your email address. Your account is now fully activated!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;FridgeForReal&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Features</title>
