@@ -1,6 +1,6 @@
-baseURL: http://something-fresh.org/
+baseURL: https://fridgeforreal.github.io/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: FridgeForReal
 
 theme: 'hugo-fresh'
 
@@ -44,17 +44,11 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Features
-    url: /
-  - title: Pricing
-    url: /
-  - title: Dropdown
-    sublinks:
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
+    url: /features
+  - title: Mission
+    url: /mission
+  - title: About Us
+    url: /about
   - title: Log in
     url: /
   - title: Sign up

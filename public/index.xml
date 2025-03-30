@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Fresh Theme</title>
+    <title>FridgeForReal</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Fresh Theme</description>
+    <description>Recent content on FridgeForReal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;our-team&#34;&gt;Our Team&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;re a passionate team of developers, designers, and food waste prevention advocates working to make a difference.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-values&#34;&gt;Our Values&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;: We believe in creating solutions that help protect our environment&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Innovation&lt;/strong&gt;: We&amp;rsquo;re constantly improving our technology to better serve our users&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt;: We&amp;rsquo;re building a community of conscious consumers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h2&gt;&#xA;&lt;p&gt;Have questions or suggestions? We&amp;rsquo;d love to hear from you!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:contact@fridgeforreal.com&#34;&gt;contact@fridgeforreal.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/FridgeForReal&#34;&gt;@FridgeForReal&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Instagram: &lt;a href=&#34;https://instagram.com/FridgeForReal&#34;&gt;@FridgeForReal&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;faq&#34;&gt;FAQ&lt;/h2&gt;&#xA;&lt;h3 id=&#34;how-does-fridgeforreal-work&#34;&gt;How does FridgeForReal work?&lt;/h3&gt;&#xA;&lt;p&gt;Simply download the app, create an account, and start tracking your groceries. The app will help you manage expiration dates and suggest recipes based on what you have.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>http://localhost:1313/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/features/</guid>
+      <description>&lt;h2 id=&#34;track-your-food-inventory&#34;&gt;Track Your Food Inventory&lt;/h2&gt;&#xA;&lt;p&gt;Keep track of all your groceries in one place. Simply scan or manually add items to your digital fridge.&lt;/p&gt;&#xA;&lt;h2 id=&#34;smart-expiration-tracking&#34;&gt;Smart Expiration Tracking&lt;/h2&gt;&#xA;&lt;p&gt;Never waste food again. Get notified when items are about to expire.&lt;/p&gt;&#xA;&lt;h2 id=&#34;recipe-recommendations&#34;&gt;Recipe Recommendations&lt;/h2&gt;&#xA;&lt;p&gt;Get personalized recipe suggestions based on what&amp;rsquo;s in your fridge and what&amp;rsquo;s expiring soon.&lt;/p&gt;&#xA;&lt;h2 id=&#34;coming-soon-nutritional-insights&#34;&gt;Coming Soon: Nutritional Insights&lt;/h2&gt;&#xA;&lt;p&gt;Track your nutritional intake based on what you buy and consume.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Mission</title>
+      <link>http://localhost:1313/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mission/</guid>
+      <description>&lt;h2 id=&#34;our-story&#34;&gt;Our Story&lt;/h2&gt;&#xA;&lt;p&gt;FridgeForReal was born from a simple observation: too much food goes to waste in our homes. We believe that with the right tools, everyone can make a difference in reducing food waste.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;Every year, millions of tons of food are wasted in households around the world. This waste has significant environmental and economic impacts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-solution&#34;&gt;Our Solution&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;re making it easier than ever to manage your food inventory and reduce waste through:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
