@@ -4,6 +4,10 @@
   <url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/comingsoon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/emailconfirmed/</loc>
+  </url><url>
     <loc>http://localhost:1313/features/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>

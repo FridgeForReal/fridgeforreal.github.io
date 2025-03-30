@@ -8024,7 +8024,8 @@ Hero styles
     color: #999; }
 
 .hero-foot img.partner-logo {
-  height: 70px; }
+  height: 70px;
+  width: 150px; }
 
 /* ==========================================================================
 Fresh Footer

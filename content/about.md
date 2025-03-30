@@ -17,9 +17,8 @@ We're a passionate team of developers, designers, and food waste prevention advo
 
 Have questions or suggestions? We'd love to hear from you!
 
-- Email: [contact@fridgeforreal.com](mailto:contact@fridgeforreal.com)
-- Twitter: [@FridgeForReal](https://twitter.com/FridgeForReal)
-- Instagram: [@FridgeForReal](https://instagram.com/FridgeForReal)
+- Email: [fridgeforreal.contact@gmail.com](mailto:fridgeforreal.contact@gmail.com)
+- Instagram: [@fridge.for.real](https://instagram.com/fridge.for.real)
 
 ## FAQ
 
